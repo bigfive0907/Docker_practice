@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:14-alpine
 WORKDIR /usr/src/app
 #Next.js - rails api新規プロジェクトの作成
 
